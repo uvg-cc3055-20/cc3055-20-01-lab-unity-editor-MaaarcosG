@@ -44,3 +44,6 @@ TagManager:
   - name: World
     uniqueID: 1498942003
     locked: 0
+  - name: Character
+    uniqueID: 1335573155
+    locked: 0
